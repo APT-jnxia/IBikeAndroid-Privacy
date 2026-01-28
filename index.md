@@ -1,4 +1,4 @@
-### 📄 **I-Bike+ Privacy Policy 
+### Privacy Policy 
 
 **Effective Date:** May 27, 2024
 **Last Updated:** May 27, 2024
