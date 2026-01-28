@@ -33,6 +33,18 @@ When you connect your e-bike to the App, we collect and upload real-time operati
     2.  You are **actively using** a feature that requires location, such as **route recording, navigation, or the “Find My Bike” function**.
 *   **Important Clarification on Background Collection: We do NOT continuously collect your location in the background (when the App is not in active use).** Location tracking is active only when the App is in the foreground and you are engaged in a location-based feature.
 
+## 1.4 Background Location Usage
+
+This app requires background location access to ensure continuous Bluetooth communication and navigation functionality during cycling activities.
+
+While riding, the app may continue to receive location updates in the background to:
+- Maintain a stable connection with the Bluetooth device
+- Record cycling routes and riding data without interruption
+- Provide ongoing navigation and riding information when the screen is off
+
+Location data is used only for real-time riding features and is processed locally on your device.
+We do not track users, store location history on servers, or share location data with third parties.
+
 ---
 
 #### **2. How We Use Your Information**
